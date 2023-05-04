@@ -53,6 +53,10 @@
     border-radius: 1em;
     margin-right: 2em;
 }
+.otros p:last-child.borde-verde {
+    border: 5px solid green;
+}
+
 
 /* PROGRAMAS.HTML */
 .losProgramas {
@@ -370,3 +374,4 @@ input[type="date"] {
     border-radius: 5px;
     font-size: 30px;
 }
+
